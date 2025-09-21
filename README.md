@@ -8,7 +8,7 @@ The project emphasizes **data visualization design**, **storytelling**, and **UI
 ---
 
 ## 📸 Dashboard Preview
-C:\Users\USER\Pictures\Screenshots\Image%20One.png
+C:/Users/USER/Pictures/Screenshots/Image%20One.png
 
 ## 📑 Table of Contents
 1. [Project Overview](#project-overview)  
