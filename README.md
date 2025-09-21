@@ -8,6 +8,7 @@ The project emphasizes **data visualization design**, **storytelling**, and **UI
 ---
 
 ## 📸 Dashboard Preview
+<img width="953" height="565" alt="Image One" src="https://github.com/user-attachments/assets/904aa40f-e041-4e71-990f-91b6b2ea6b5d" />
 
 
 ## 📑 Table of Contents
@@ -63,6 +64,7 @@ The design uses **color consistency**, **Google branding**, and **interactive el
 
 ---
 
+<img width="952" height="564" alt="Image Two" src="https://github.com/user-attachments/assets/eb25fd54-b4e9-4fc2-868b-4582d80316ef" />
 
 ## 🛠 Dashboard Design Process
 
