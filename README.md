@@ -8,7 +8,7 @@ The project emphasizes **data visualization design**, **storytelling**, and **UI
 ---
 
 ## 📸 Dashboard Preview
-(#C:\Users\USER\Pictures\Screenshots\Image One.png)
+C:\Users\USER\Pictures\Screenshots\Image One.png
 
 ## 📑 Table of Contents
 1. [Project Overview](#project-overview)  
@@ -63,7 +63,7 @@ The design uses **color consistency**, **Google branding**, and **interactive el
 
 ---
 
-(#C:\Users\USER\Pictures\Screenshots\Image Two.png)
+C:\Users\USER\Pictures\Screenshots\Image Two.png
 
 ## 🛠 Dashboard Design Process
 
