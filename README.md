@@ -113,7 +113,8 @@ The design uses **color consistency**, **Google branding**, and **interactive el
 
 ## 🔍 How to View
 1. Clone this repository.  
-2. Open the `.twbx` Tableau packaged workbook.  
+2. Open the Tableau packaged workbook:
+     https://public.tableau.com/views/FinanceDashboard_17584743162240/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 3. Explore the dashboard interactively.  
 
 ---
